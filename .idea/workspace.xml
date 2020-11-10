@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="11b0ddd3-0c52-4da7-afe6-74e54e54f21b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/dev/aws.tf" beforeDir="false" afterPath="$PROJECT_DIR$/dev/aws.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/ec2.tf" beforeDir="false" afterPath="$PROJECT_DIR$/dev/ec2.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/output.tf" beforeDir="false" afterPath="$PROJECT_DIR$/dev/output.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/terraform.tfvars" beforeDir="false" afterPath="$PROJECT_DIR$/dev/terraform.tfvars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/variables.tf" beforeDir="false" afterPath="$PROJECT_DIR$/dev/variables.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/vpc.tf" beforeDir="false" afterPath="$PROJECT_DIR$/dev/vpc.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ec2/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/modules/ec2/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ec2/variables.tf" beforeDir="false" afterPath="$PROJECT_DIR$/modules/ec2/variables.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/security_group/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/modules/security_group/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/security_group/outputs.tf" beforeDir="false" afterPath="$PROJECT_DIR$/modules/security_group/outputs.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/security_group/variables.tf" beforeDir="false" afterPath="$PROJECT_DIR$/modules/security_group/variables.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/vpc/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/modules/vpc/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/vpc/outputs.tf" beforeDir="false" afterPath="$PROJECT_DIR$/modules/vpc/outputs.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/vpc/variables.tf" beforeDir="false" afterPath="$PROJECT_DIR$/modules/vpc/variables.tf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1iCRwyEma1Sp2MQLQt3i4GUaG3b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11b0ddd3-0c52-4da7-afe6-74e54e54f21b" name="Default Changelist" comment="" />
+      <created>1601409830483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601409830483</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="406" y="59" key="RollbackChangesDialog" timestamp="1603927572158">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="406" y="59" key="RollbackChangesDialog/0.23.1440.821@0.23.1440.821" timestamp="1603927572158" />
+    <state x="229" y="72" key="SettingsEditor" timestamp="1602275933120">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="229" y="72" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1602275933120" />
+    <state x="385" y="168" width="670" height="676" key="search.everywhere.popup" timestamp="1603980402187">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="385" y="168" width="670" height="676" key="search.everywhere.popup/0.23.1440.821@0.23.1440.821" timestamp="1603980402187" />
+  </component>
+</project>
