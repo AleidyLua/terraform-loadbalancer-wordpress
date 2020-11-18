@@ -90,7 +90,7 @@ module "target-group-1" {
 
 module "ALB-stack" {
   source = "../modules/load_balancer"
-  domain = "aleidy.kiastests.com"
+  domain = "test1.aleidy.kiastests.com"
   load_balancer_name = ""
   security_groups = [module.security_group1.security_group_id]
   subnets = [module.vpc.subnet_id1,module.vpc.subnet_id2]
